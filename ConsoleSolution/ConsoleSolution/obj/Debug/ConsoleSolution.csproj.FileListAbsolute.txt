@@ -1,0 +1,6 @@
+c:\users\tim\documents\visual studio 2012\Projects\ConsoleSolution\ConsoleSolution\bin\Debug\ConsoleSolution.exe.config
+c:\users\tim\documents\visual studio 2012\Projects\ConsoleSolution\ConsoleSolution\obj\Debug\ConsoleSolution.csprojResolveAssemblyReference.cache
+c:\users\tim\documents\visual studio 2012\Projects\ConsoleSolution\ConsoleSolution\bin\Debug\ConsoleSolution.exe
+c:\users\tim\documents\visual studio 2012\Projects\ConsoleSolution\ConsoleSolution\bin\Debug\ConsoleSolution.pdb
+c:\users\tim\documents\visual studio 2012\Projects\ConsoleSolution\ConsoleSolution\obj\Debug\ConsoleSolution.exe
+c:\users\tim\documents\visual studio 2012\Projects\ConsoleSolution\ConsoleSolution\obj\Debug\ConsoleSolution.pdb
